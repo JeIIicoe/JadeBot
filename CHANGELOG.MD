@@ -1,3 +1,8 @@
+## 1.1
+
+### Changed
+- Added delete command, and better formatting.
+
 ## 1.0
 
 ### Changed
